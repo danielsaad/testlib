@@ -8,6 +8,8 @@ The library C++ code is tested for compatibility with Borland C++ (5.6), Microso
 
 This code used many times on Open Team Programming Collegiate Cup contests (http://opencup.ru/) running on Linux platform and compiled by g++ compiler.
 
+A Support to the BOCA judge system is included in this version. One only needs to  define the BOCA_SUPPORT macro. This can be done in compile time or the user can define it manually in the code.
+
 ## Samples
 
 ### Checker
